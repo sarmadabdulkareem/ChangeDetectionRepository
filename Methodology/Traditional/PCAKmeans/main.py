@@ -1,4 +1,4 @@
-import gdal
+# import gdal
 import numpy as np
 from Methodology.Traditional.PCAKmeans.algorithm import pca_k_means
 from Methodology.Traditional.PCAKmeans.util import diff_image
